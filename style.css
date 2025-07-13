@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+#box{
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+/*html,body{
+    height : 100%;
+    width  : 100%;
+}
+div{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+h1{
+    color: aqua;
+    background-color: black;
+    font-size: 50px;
+    font-family: gilory;
+    font-weight: 400;
+    front-style: italic;
+    text-align: center;
+
+
+}
+h2{
+    color:pink;
+}*/
